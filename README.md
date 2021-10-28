@@ -1,2 +1,2 @@
 # ANN-implimentation-demo
-It's a implimentation of ANN. Just a demo!
+It's an implementation of Artificial Neural Network(ANN).
